@@ -3,4 +3,6 @@ How to connect
 - use the included picoprobe.uf2 file to program the pi pico
 - connect according to the picture below
 
-![UsingPico](https://github.com/Kris-Sekula/Pine64_Ox64_SBC/blob/main/uart/Pine_Serial_L.png)
+![UsingPico](https://github.com/Kris-Sekula/Pine64_Ox64_SBC/blob/main/uart/Pine_Serial_v2.png)
+
+
